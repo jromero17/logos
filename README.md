@@ -1,4 +1,4 @@
-###About
+# About
 
 > [!IMPORTANT]
 > **Logos are a collection of images, banners and logos related to the IMUNES projects.
